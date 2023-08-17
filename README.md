@@ -49,8 +49,8 @@ Contributing:
 Contributions are welcome! Please feel free to open issues and submit pull requests.
 
 License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the BSD 3-Clause License - see the LICENSE file for details.
 
 ---
 
-Created by Your blackmamba-ops
+Created by blackmamba-ops
